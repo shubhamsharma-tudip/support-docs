@@ -2,6 +2,26 @@
 title: "SparkPost Change Log"
 description: "A running log of what's new, what's been fixed, and what's been changed in SparkPost."
 ---
+
+## April 4, 2018
+### What's New?
+* You can now set a default bounce domain (return-path domain) for your subaccount. This is in addition to the account-wide option. 
+** The is_default_bounce_domain can be set at the account or subaccount level via the Sending Domains API
+** UI component will be available shortly
+
+
+## April 3, 2018
+### What's New?
+
+* SparkPost.com is now available in the EU. If you need your data hosted in the EU, check out [SparkPost EU](https://app.eu.sparkpost.com)
+* SparkPost is GDPR compliant - well ahead of the May deadline. For details, read our [blog post](https://www.sparkpost.com/blog/announcing-sparkpost-eu/?utm_source=twitter&utm_medium=social-media&utm_campaign=all&utm_content=bl-sp-eu-gdpr)
+
+
+## March, 2018
+### What's New?
+
+* Check out our new UI and tell us what you think?
+
 ## December 8, 2017
 ### What’s New?
 
