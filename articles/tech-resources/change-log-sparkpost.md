@@ -5,9 +5,7 @@ description: "A running log of what's new, what's been fixed, and what's been ch
 
 ## April 4, 2018
 ### What's New?
-* You can now set a default bounce domain (return-path domain) for your subaccount. This is in addition to the account-wide option. 
-** The is_default_bounce_domain can be set at the account or subaccount level via the Sending Domains API
-** UI component will be available shortly
+* You can now set a default bounce domain (return-path domain) for your subaccount. This is in addition to the account-wide option. The is_default_bounce_domain can be set at the account or subaccount level via the Sending Domains API. The UI component will be available shortly.
 
 
 ## April 3, 2018
