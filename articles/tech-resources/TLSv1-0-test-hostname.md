@@ -36,9 +36,9 @@ Test Endpoint for TLS Deprecation: https://no-tlsv1-test-api.eu.sparkpost.com/ap
 
 <br>
 
-Current SMTP Endpoint:  smtp.eu.sparkpostmail.com
+Current SMTP Endpoint:  smtp.eu.e.sparkpost.com
 
-Test SMTP Endpoint for TLS Deprecation:  no-tlsv1-test-smtp.eu.sparkpostmail.com
+Test SMTP Endpoint for TLS Deprecation:  no-tlsv1-test-smtp.eu.e.sparkpost.com
 
 <br>
 
